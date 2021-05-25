@@ -15,5 +15,13 @@
 ## REMOTES
 -`git remote add <NAME> <URL>`:<NAME =origin> point to the remote
 -`git push <origin> <main>`: diff a file against a specific commit
--`git pull`:pull from github
--`git diff <SHA><FILE>` diff a file against a specific commit
+-`git push` <WHERE> <WHAT>:pull from github, local repo -> remote
+-`git pull` <WHERE> <WHAT>:pull from github, remote -> local repo
+	
+##BRANCHES	
+--`git diff <SHA><FILE>` diff a file against a specific commit
+## how to fix master -> master
+1. -`git checkout` 
+2. -`git checkout` 
+3. -`git checkout` 	
+	
