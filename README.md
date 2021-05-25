@@ -1,3 +1,4 @@
+
 # 2021-05-25 git
 -`git init`: initialise git repo in current location
 -`git status` : gives you the status
@@ -7,3 +8,7 @@
 -`git log`: logs something shows you commit history
 	-`git log` :condensed history
 -`git diff`: gives you the difference
+-`git diff HEAD~2`:diff 2 commits ago
+-`git diff <SHA><FILE>` diff a file against a specific commit
+
+-`gitignore`: file that pattern matches files to ignore
