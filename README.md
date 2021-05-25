@@ -12,3 +12,8 @@
 -`git diff <SHA><FILE>` diff a file against a specific commit
 
 -`gitignore`: file that pattern matches files to ignore
+## REMOTES
+-`git remote add <NAME> <URL>`:<NAME =origin> point to the remote
+-`git push <origin> <main>`: diff a file against a specific commit
+-`git pull`:pull from github
+-`git diff <SHA><FILE>` diff a file against a specific commit
