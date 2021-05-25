@@ -1,5 +1,5 @@
 
-# 2021-05-25 git
+# 2021-05-25 GIT
 - `git init`: initialise git repo in current location
 - `git status` : gives you the status
 - `git add <FILE> `: adds <FILE> to the staging area
